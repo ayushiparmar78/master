@@ -7,7 +7,7 @@
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "4.2.2",
     "bootstrap": "4.2.1",
-    "jquery": "3.3.1",
+    "jquery": "3.4.0",
     "jquery-migrate": "3.0.0",
     "jquery.counterup": "^2.1.0",
     "jquery.easing": "^1.4.1",
