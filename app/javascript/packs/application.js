@@ -8,13 +8,17 @@ require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
 require("jquery")
-// require("jquery.counterup")
+// require("jquery.counterUp")
 
 import 'jquery'
 import 'popper.js'
 import 'bootstrap'
 import 'jquery.easing'
-// import 'jquery.counterup'
+// import 'owl.carousel/dist/assets/owl.carousel.css';
+import 'owl.carousel/dist/owl.carousel.js';
+// import 'jquery.counterUp'
+// import 'owlcarousel'
+// import 'isotope'
 
 require('packs/mainapp')
 // Uncomment to copy all static images under ../images to the output folder and reference
